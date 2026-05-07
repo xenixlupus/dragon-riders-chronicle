@@ -1,0 +1,34 @@
+Imie;Rod;Tytul;Smok;Kolor_smoka;Lata;Los;Przyczyna_smierci
+Aegon I Targaryen;Targaryen;krol;Balerion;czarny;27BC-37AC;polegl;choroba
+Visenya Targaryen;Targaryen;krolowa;Vhagar;zielony;28BC-44AC;polegl;choroba
+Rhaenys Targaryen;Targaryen;krolowa;Meraxes;srebrny;29BC-10AC;polegl;bitwa
+Aenys Targaryen;Targaryen;krol;Quicksilver;srebrny;7AC-42AC;polegl;choroba
+Maegor Targaryen;Targaryen;krol;Balerion;czarny;12AC-48AC;polegl;zamordowany
+Aerea Targaryen;Targaryen;ksiezniczka;Balerion;czarny;56AC-74AC;polegl;choroba
+Jaehaerys I Targaryen;Targaryen;krol;Vermithor;brazowy;34AC-103AC;polegl;choroba
+Alysanne Targaryen;Targaryen;krolowa;Silverwing;srebrny;36AC-100AC;polegl;choroba
+Baelon Targaryen;Targaryen;ksiaze;Vhagar;zielony;57AC-101AC;polegl;choroba
+Aemon Targaryen;Targaryen;ksiaze;Caraxes;czerwony;55AC-92AC;polegl;bitwa
+Viserys I Targaryen;Targaryen;krol;Balerion;czarny;77AC-129AC;polegl;choroba
+Daemon Targaryen;Targaryen;ksiaze;Caraxes;czerwony;81AC-130AC;polegl;taniec smokow
+Rhaenys Velaryon;Velaryon;ksiezniczka;Meleys;czerwony;74AC-129AC;polegl;taniec smokow
+Laena Velaryon;Velaryon;lady;Vhagar;zielony;92AC-120AC;polegl;choroba
+Laenor Velaryon;Velaryon;lord;Seasmoke;srebrny;94AC-120AC;polegl;zamordowany
+Rhaenyra Targaryen;Targaryen;krolowa;Syrax;zloty;97AC-130AC;polegl;taniec smokow
+Aegon II Targaryen;Targaryen;krol;Sunfyre;zloty;107AC-131AC;polegl;zamordowany
+Aemond Targaryen;Targaryen;ksiaze;Vhagar;zielony;110AC-130AC;polegl;taniec smokow
+Daeron Targaryen;Targaryen;ksiaze;Tessarion;niebieski;114AC-130AC;polegl;taniec smokow
+Jacaerys Velaryon;Velaryon;ksiaze;Vermax;zielony;114AC-129AC;polegl;taniec smokow
+Lucerys Velaryon;Velaryon;ksiaze;Arrax;bialy;115AC-129AC;polegl;taniec smokow
+Joffrey Velaryon;Velaryon;ksiaze;Tyraxes;zielony;117AC-130AC;polegl;taniec smokow
+Baela Targaryen;Targaryen;ksiezniczka;Moondancer;zielony;116AC-nieznane;zyje;brak
+Rhaena Targaryen;Targaryen;ksiezniczka;Morning;rozowy;116AC-nieznane;zyje;brak
+Jaehaera Targaryen;Targaryen;ksiezniczka;Morghul;czarny;123AC-133AC;polegl;zamordowany
+Jaehaerys Targaryen;Targaryen;ksiaze;Shrykos;zielony;123AC-129AC;polegl;zamordowany
+Hugh Hammer;nieznany;rycerz;Vermithor;brazowy;130AC-130AC;polegl;zamordowany
+Ulf Bialy;nieznany;rycerz;Silverwing;srebrny;130AC-130AC;polegl;zamordowany
+Addam Velaryon;Velaryon;lord;Seasmoke;srebrny;114AC-130AC;polegl;taniec smokow
+Nettles;nieznany;jezdziec;Sheepstealer;brazowy;130AC-nieznane;zaginiony;brak
+Daenerys Targaryen;Targaryen;krolowa;Drogon;czarny;284AC-305AC;zyje;brak
+Jon Snow;Stark;lord;Rhaegal;zielony;283AC-305AC;zyje;brak
+Night King;Inni;krol;Viserion;lodowy;nieznane-305AC;polegl;bitwa
